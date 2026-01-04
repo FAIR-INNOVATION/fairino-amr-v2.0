@@ -17,4 +17,4 @@
    :maxdepth: 6
    :caption: 用户手册
 
-   AMRManual/index
+   AMRManual/intro
